@@ -54,3 +54,6 @@ git commit -m "Merge: Resolver conflicto entre análisis de ventas y datos"
 - Repositorio local con commits previos
 -Editor de texto para resolver conflictos
 
+### Evidencia Prueba
+
+![Pruebas](img/ramas.png)
