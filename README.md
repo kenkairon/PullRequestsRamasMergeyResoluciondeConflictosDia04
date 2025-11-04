@@ -1,6 +1,10 @@
 # **Ejercicio**: Crea ramas, modifica archivos y resuelve un conflicto
 Ejercicio práctico para aplicar los conceptos aprendidos.
 
+| Autor            | Fecha        | Día |
+|------------------|--------------|----------|
+| **Carlos Vásquez** |04 Noviembre 2025 | 4 |
+
 ## Crear y trabajar con ramas:
 
 ```sh
@@ -48,6 +52,5 @@ git commit -m "Merge: Resolver conflicto entre análisis de ventas y datos"
 ### Requerimientos:
 - Git configurado y conectado con GitHub (de días anteriores)
 - Repositorio local con commits previos
-- Editor de texto para resolver conflictos
+-Editor de texto para resolver conflictos
 
-# Análisis de datos principal
